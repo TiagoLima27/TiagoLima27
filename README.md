@@ -5,7 +5,7 @@
 
 - 📫 How to reach me: **tiagolima27995@gmail.com**
 
-- ⚡ Fun fact: **Once while playing Airsoft in the wild I got lost and was playing alone for half an hour until I understood that I was playing alone and took another half an hour to find the camp.**
+- ⚡ Fun fact: **Once while playing Airsoft in the wild I got lost and was playing alone for half an hour and took another half an hour to find the camp.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
