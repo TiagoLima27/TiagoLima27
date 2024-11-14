@@ -3,7 +3,8 @@
 <h1 href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&width=435&lines=Hi,+I´m+Tiago+Lima" alt="Typing SVG" /></a></h1>
 <p align="left">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Raised Hand" width="2225" height="1" />
-<h1 href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=2000&width=435&lines=A+passionate+full+stack+developer+from+Portugal." alt="Typing SVG" /></a></h3>
+<h3 href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=2000&width=435&lines=A+passionate+full+stack+developer." alt="Typing SVG" /></a></h3>
+
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Graduation%20Cap.webp" alt="Graduation Cap" width="35" height="35" /> I’m currently learning: **Full Stack Developer on Code for All_**
 
