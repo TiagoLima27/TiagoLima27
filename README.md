@@ -1,6 +1,6 @@
 <p align="left">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Raised Hand" width="2225" height="1" />
-<h1 href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=5000&width=435&lines=Hi,+I´m+Tiago+Lima" alt="Typing SVG" /></a></h1>
+<h3 href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=5000&width=435&lines=Hi,+I´m+Tiago+Lima" alt="Typing SVG" /></a></h3>
 <p align="left">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Raised Hand" width="2225" height="1" />
 <h3 href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=5000&width=435&lines=A+passionate+full+stack+developer." alt="Typing SVG" /></a></h3>
