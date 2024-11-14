@@ -1,7 +1,8 @@
 <p align="left">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Raised%20Hand.webp" alt="Raised Hand" width="125" height="125" />
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Raised Hand" width="2225" height="1" />
 <h1 href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&width=435&lines=Hi,+I´m+Tiago+Lima" alt="Typing SVG" /></a></h1>
 <p align="left">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Raised Hand" width="2225" height="1" />
 <h1 href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=435&lines=A+passionate+full+stack+developer+from+Portugal." alt="Typing SVG" /></a></h3>
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Graduation%20Cap.webp" alt="Graduation Cap" width="35" height="35" /> I’m currently learning: **Full Stack Developer on Code for All_**
@@ -9,6 +10,8 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Inbox%20Tray.webp" alt="Inbox Tray" width="35" height="35" /> How to reach me: **tiagolima27995@gmail.com**
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/High%20Voltage.webp" alt="High Voltage" width="35" height="35" /> Fun fact: **Once while playing Airsoft in the wild I got lost and was playing alone for half an hour and took another half an hour to find the camp.**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Raised Hand" width="2225" height="1" />
 
 <h3 align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hobbies:" alt="Typing SVG" /></a>
 <p align="left">
@@ -30,4 +33,6 @@
 <h3 align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Languages+and+tools:" alt="Typing SVG" /></a>
 <p align="left">
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="61" height="61" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="61" height="61" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="61" height="61" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="61" height="61" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="61" height="61" /></div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Raised Hand" width="2225" height="1" />
 
