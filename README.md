@@ -3,7 +3,7 @@
 <h3 href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=5000&width=435&lines=Hi,+I´m+Tiago+Lima" alt="Typing SVG" /></a></h3>
 <p align="left">
   
-<h2 align="left">A passionate full stack developer from Portugal.</h2>
+<h2 align="left">A passionate Full Stack Developer from Portugal.</h2>
 <p align="left">
 <p align="left">
 
